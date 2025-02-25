@@ -81,6 +81,7 @@ p
 
 .aboutp2 p {
     margin-top: 20px; 
+    text-align: justify;
 }
 
 .aboutp1 img
@@ -157,6 +158,10 @@ p
 {
     width:50%;
 }
+.projects .p2 p {
+    text-align: justify;
+}
+
 .gitHubButton
 {
     background: black;
